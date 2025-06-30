@@ -17,6 +17,6 @@
 ## 🧩 Tech Stack
 
 - **Frontend:** JavaScript, React.js, Next.js
-- **Backend:** Node.js (API) *(adjust if you have a backend folder)*
+- **Backend:** Node.js 
 - **Database:** MongoDB
 
